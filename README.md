@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **IT Support Engineer** with experience in **Supporting Windows, Linux, and MacOS Clients**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+IT Support Engineer with 12+ years of experience supporting enterprise environments. Specialized in Windows systems, Active Directory, and Microsoft 365. Strong background in troubleshooting, user support, and IT operations. Currently seeking IT Support / System Administrator roles in Germany.
 
 - 🌱 Currently learning: **AI Automation using the following n8n, Make.com, and Zapier**
 - 🔭 Working on: **Building a website using Claude Code**
